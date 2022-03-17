@@ -12,7 +12,7 @@ heres the [cheat sheet](https://training.github.com/downloads/github-git-cheat-s
 2. add a file to the directory (folder) you're working in<--<br><br>-->
 
 3. stage your changes (all of them or just the file your edited)
-> git add -a <br> git add [file name]
+> git add -A <br> git add [file name]
 
 4. commit your changes and add a note
 > git commit -m [note]
