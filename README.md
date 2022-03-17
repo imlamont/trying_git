@@ -9,7 +9,7 @@ heres the [cheat sheet](https://training.github.com/downloads/github-git-cheat-s
 1. make a new branch called your name with
 > git branch [your name]
 
-2. add a file to the directory (folder) you're working in<--<br><br>-->
+2. add a file to the directory (folder) you're working in
 
 3. stage your changes (all of them or just the file your edited)
 > git add -A <br> git add [file name]
