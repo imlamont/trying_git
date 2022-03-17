@@ -6,8 +6,8 @@ heres the [cheat sheet](https://training.github.com/downloads/github-git-cheat-s
 0. check that your have the right remote repo
 > git remote show origin
 
-1. make a new branch called your name with
-> git branch [your name]
+1. make a new branch called your name and automatically switch to it
+> git branch -b [your name]
 
 2. add a file to the directory (folder) you're working in
 
